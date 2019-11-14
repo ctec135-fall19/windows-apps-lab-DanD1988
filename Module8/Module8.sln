@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassDemo", "PartialClassDemo\PartialClassDemo.csproj", "{BCD0E0B4-AE47-4F3F-A411-570D03F68671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWinFormsApp", "SimpleWinFormsApp\SimpleWinFormsApp.csproj", "{AC5D13F7-81CE-4D82-B0BC-9B9ADDDD70C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD0E0B4-AE47-4F3F-A411-570D03F68671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD0E0B4-AE47-4F3F-A411-570D03F68671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD0E0B4-AE47-4F3F-A411-570D03F68671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD0E0B4-AE47-4F3F-A411-570D03F68671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5D13F7-81CE-4D82-B0BC-9B9ADDDD70C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5D13F7-81CE-4D82-B0BC-9B9ADDDD70C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5D13F7-81CE-4D82-B0BC-9B9ADDDD70C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5D13F7-81CE-4D82-B0BC-9B9ADDDD70C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D6DCC61-FEB7-44C1-A6F5-7506DC55FE39}
+	EndGlobalSection
+EndGlobal
